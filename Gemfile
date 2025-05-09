@@ -62,4 +62,4 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "amazing_print", "~> 1.7"
+gem "amazing_print", "~> 1.8"
